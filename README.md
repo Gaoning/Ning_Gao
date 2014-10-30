@@ -9,7 +9,7 @@ Ning Gao
 ning.gao@colorado.edu
 
 ## Photo
-![profile photo](files/profile.png)
+![profile photo](files/profile.jpg)
 
 ## Website
 
@@ -59,23 +59,17 @@ Qin Lv
 
 ## Presentations
 
-* {what,where,when} [pptx](files/presentation-file.pptx)
-* {what,where,when} [pptx](files/presentation-file.pptx)
-* {what,where,when} [pptx](files/presentation-file.pptx)
       
 ## Awards
 Dean's Outstanding Meric Fellowship
 
 
 # Teaching
-Fall 2012, Spring 2013, TA, Algorithm(CSCI3104), University of Colorado Boulder.
-Spring 2014, TA, Computer System(CSCI 2400), University of Colorado Boulder.
+* Fall 2012, Spring 2013, TA, Algorithm(CSCI3104), University of Colorado Boulder.
+* Spring 2014, TA, Computer System(CSCI 2400), University of Colorado Boulder.
 
 # Service
 
-* {one sentence summary}
-* {one sentence summary}
-* {one sentence summary}
 
 # Highlights
 
